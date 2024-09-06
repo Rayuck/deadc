@@ -1,25 +1,25 @@
 
-# Installation
+# **Installation**
 
-## install gcc:
+## **install gcc:**
 
-### Arch Linux
+### **Arch Linux**
 
 ```sudo pacman -S gcc```
 
-### Debian
+### **Debian**
 
 ```sudo apt-get install gcc```
 
-### Mac
+### **Mac**
 
 ```brew install gcc```
 
-### Windows
+### **Windows**
 
 Install from the [sourceforge](https://sourceforge.net/projects/gcc-win64/) website
 
-## clone & compile:
+## **clone & compile:**
 
 ```git clone https://github.com/jayuck/deadc```
 
@@ -27,6 +27,6 @@ Install from the [sourceforge](https://sourceforge.net/projects/gcc-win64/) webs
 
 ```gcc main.c -o deadc```
 
-## use:
+## **use:**
 
 ```deadc <path_to_deadfish_file>```
