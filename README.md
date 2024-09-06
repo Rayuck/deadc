@@ -21,9 +21,15 @@ Install from the [sourceforge](https://sourceforge.net/projects/gcc-win64/) webs
 
 ## **clone & compile:**
 
+clone repo
+
 ```git clone https://github.com/jayuck/deadc```
 
+cd into deadc directory
+
 ```cd deadc```
+
+compile main.c
 
 ```gcc main.c -o deadc```
 
